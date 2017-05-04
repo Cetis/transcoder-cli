@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.org.cetis.transcoder</groupId>
+  <artifactId>transcoder</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+  <name>Transcoder</name>
+  <description>E-learning content transformation</description>
+ </project>
